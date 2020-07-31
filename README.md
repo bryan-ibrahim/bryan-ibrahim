@@ -1,4 +1,4 @@
-### Howdy! 👋
+### Wassup! 👋
 
 - 🔭 I’m currently working on a photography ecommerce app 📸
 - 🌱 I’m currently learning Adobe After Effects
