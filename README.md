@@ -1,6 +1,6 @@
 ### Wassup! 😎
 
-- 🔭 I’m currently working on a photography ecommerce app 📸
+- 🔭 I’m currently working on a betting app 📸
 - 🌱 I’m currently learning Adobe After Effects
 - 👯 I’m looking to collaborate on mobile & web related projects
 - 🤔 I’m looking for help with NoSQL based projects
